@@ -28,5 +28,14 @@
 
 > `python3 txt_to_csv.py test_folder_path`
 
+## DRAW_BOUNDING_BOXES_FROM_CSV
+
+* `csv_file_path = 'input.csv'`
+
+* `image_path = 'sample.jpg'`
+
+> `python3 draw_boxes_using_csv.py csv_file_path image_path`
+
+
 
 
