@@ -1,0 +1,19 @@
+git add .
+
+## In order to remove git add files
+> git rm --cached csv_to_txt.py
+
+## add github repository to your local 
+
+git remote add origin git@github.com:ZarrarAhmedKhan/Annotations_Conversion.git
+
+## to check connection established or not
+git remote -v
+
+# create branch
+
+git branch
+git checkout -b branch-name
+
+## push on branch
+git push --set-upstream origin branch-name
